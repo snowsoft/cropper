@@ -12,7 +12,7 @@ cropper extension for laravel-admin
 ## 安装
 
 ```bash
-composer require laravel-admin-ext/cropper
+composer require snowsoft/cropper
 ```
 
 然后使用artisan 命令发布资源
